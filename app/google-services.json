@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701648590941",
+    "project_id": "professorgeek-43",
+    "storage_bucket": "professorgeek-43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701648590941:android:fc9c5f77b20931429bd5b4",
+        "android_client_info": {
+          "package_name": "com.dhiman.android.professorgeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701648590941-udr184gdc1tn2sk1k8rnc78bncndnd0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALoh-0SqHAsDqyQ08EvXGw0U5i0qwlNoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701648590941-udr184gdc1tn2sk1k8rnc78bncndnd0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

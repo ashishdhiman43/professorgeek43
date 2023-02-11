@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Professor Geek</string>
+    <string name="input">Email or Phone number</string>
+    <string name="password">Enter a password</string>
+    <string name="Button">Log in</string>
+    <string name="sex"> Choose Gender</string>
+    <string name="logo">logo of professor geek</string>
+    <string name="username_email_or_phone_number">Username, email or phone number</string>
+    <string name="passinput">Enter an password</string>
+    <string name="signup">Create an account</string>
+    <string name="phone">Enter Mobile Number</string>
+    <string name="createacc">Sign up</string>
+    <string name="enter_full_name">Enter your name</string>
+    <string name="otp">Enter OTP Number</string>
+    <string name="terms">I agree the terms and conditions</string>
+    <string name="email">Enter your email address</string>
+    <string name="registration">Sign Up</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="DOB">Enter Date Of Birth</string>
+    <string name="selectimg">select an image</string>
+    <string name="uploadimg">upload an image</string>
+    <string name="profileimage">profileimage</string>
+    <string-array name="spinner">
+        <item>male</item>
+        <item>female</item>
+        <item>transgender</item>
+        <item>others</item>
+    </string-array>
+</resources>
